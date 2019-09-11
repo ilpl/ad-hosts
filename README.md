@@ -1,10 +1,10 @@
-# hosts
+## hosts 文件说明
 
-## gfwlist-base.conf
+### DNSMasq 规则 [gfwlist-base.conf]
+> https://raw.githubusercontent.com/ilpl/ad-hosts/master/gfwlist-base.conf
 
-## gfwlist-base.txt
+### 无DNS污染使用的AutoProxy规则 [gfwlist-base.txt]
+> https://raw.githubusercontent.com/ilpl/ad-hosts/master/gfwlist-base.txt
 
-## hosts
-
-
-
+### 去广告hosts的一点附加 [hosts]
+> https://raw.githubusercontent.com/ilpl/ad-hosts/master/hosts
