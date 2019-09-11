@@ -1,4 +1,4 @@
-## hosts 文件说明
+## 文件说明
 
 ### DNSMasq 规则 [gfwlist-base.conf]
 > https://raw.githubusercontent.com/ilpl/ad-hosts/master/gfwlist-base.conf
