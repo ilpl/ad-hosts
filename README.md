@@ -1,3 +1,6 @@
+## 有现成的去广告hosts为什么还弄多一个?
+> [neohosts](https://github.com/neoFelhz/neohosts) 没有我对应上的网站,我所以做了一些补充.
+
 ## 文件说明
 
 ### DNSMasq 规则 [gfwlist-base.conf]
