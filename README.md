@@ -11,3 +11,5 @@
 
 ### 去广告hosts的一点附加 [hosts]
 > https://raw.githubusercontent.com/ilpl/ad-hosts/master/hosts
+
+仅仅对广告的域名进行屏蔽不会做多余的操作.欢迎反馈!
