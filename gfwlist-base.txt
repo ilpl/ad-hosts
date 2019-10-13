@@ -61,7 +61,6 @@
 ||googleusercontent.com
 ||googlewave.com
 ||googlezeitgeist.com
-||gstatic.com
 ||gwtproject.org
 ||html5rocks.com
 ||keyhole.com
