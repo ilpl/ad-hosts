@@ -61,6 +61,10 @@
 ||googleusercontent.com
 ||googlewave.com
 ||googlezeitgeist.com
+||ncrypted-tbn0.gstatic.com
+||ncrypted-tbn1.gstatic.com
+||ncrypted-tbn2.gstatic.com
+||ncrypted-tbn3.gstatic.com
 ||gwtproject.org
 ||html5rocks.com
 ||keyhole.com
@@ -71,7 +75,6 @@
 ||recaptcha.net
 ||teachparentstech.org
 ||thegooglepuzzle.com
-||thegooglepuzzle.co
 ||transparency.org
 ||urchin.com
 ||webmproject.org
@@ -128,3 +131,7 @@
 ||vimeo.com
 ||webnovel.com
 ||kknews.cc
+||blog.udn.com
+||hbo.com
+||hbogo.com
+||hbonow.com
