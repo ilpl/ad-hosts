@@ -118,6 +118,7 @@
 ||t.me
 ||telegram.org
 ||tdesktop.com
+||telegra.ph
 ||ask.com
 ||apkpure.com
 ||reuters.com
