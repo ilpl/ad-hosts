@@ -120,6 +120,7 @@
 ||telegram.me
 ||tdesktop.com
 ||telegra.ph
+||graph.org
 ||ask.com
 ||apkpure.com
 ||reuters.com
