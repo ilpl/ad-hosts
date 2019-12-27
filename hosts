@@ -1,7 +1,16 @@
-# xunfei update
+# app update
 127.0.0.1 up.yuyin.tv
 127.0.0.1 pub.cdn.yuyin.tv
 
+# app ad
+127.0.0.1 ad.ximalaya.com
+127.0.0.1 adbs.ximalaya.com
+127.0.0.1 adse.ximalaya.com
+127.0.0.1 adse.wsa.ximalaya.com
+127.0.0.1 adbehavior.wsa.ximalaya.com
+127.0.0.1 adsebs.ximalaya.com
+
+# ads
 127.0.0.1 15257dddaccde96.com
 127.0.0.1 822.dlads.cn
 127.0.0.1 avgle.topgirlsdating.com
