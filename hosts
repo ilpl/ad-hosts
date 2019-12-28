@@ -3,12 +3,18 @@
 127.0.0.1 pub.cdn.yuyin.tv
 
 # app ad
+# > ximalya
 127.0.0.1 ad.ximalaya.com
 127.0.0.1 adbs.ximalaya.com
 127.0.0.1 adse.ximalaya.com
 127.0.0.1 adse.wsa.ximalaya.com
 127.0.0.1 adbehavior.wsa.ximalaya.com
 127.0.0.1 adsebs.ximalaya.com
+# > lrts.me
+127.0.0.1 advert.mting.info
+127.0.0.1 sf1-ttcdn-tos.pstatp.com
+127.0.0.1 sf3-ttcdn-tos.pstatp.com
+127.0.0.1 sf6-ttcdn-tos.pstatp.com
 
 # ads
 127.0.0.1 15257dddaccde96.com
