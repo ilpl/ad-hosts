@@ -65,6 +65,10 @@
 ||ncrypted-tbn1.gstatic.com
 ||ncrypted-tbn2.gstatic.com
 ||ncrypted-tbn3.gstatic.com
+||ncrypted-vtbn0.gstatic.com
+||ncrypted-vtbn1.gstatic.com
+||ncrypted-vtbn2.gstatic.com
+||ncrypted-vtbn3.gstatic.com
 ||gwtproject.org
 ||html5rocks.com
 ||keyhole.com
