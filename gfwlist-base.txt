@@ -143,3 +143,5 @@
 ||hbogo.com
 ||hbonow.com
 ||imgur.com
+||tumblr.com
+||t.umblr.com
