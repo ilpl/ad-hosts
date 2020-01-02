@@ -39,6 +39,7 @@
 ||google.co.kr
 ||google.co.nz
 ||google.co.uk
+||google.co.id
 ||google.com.gi
 ||google.com.hk
 ||google.com.sg
@@ -145,3 +146,17 @@
 ||imgur.com
 ||tumblr.com
 ||t.umblr.com
+||istockphoto.com
+||issuu.com
+||medium.com
+||change.org
+||bbc.com
+||bbc.co.uk
+||bbci.co.uk
+||dailymail.co.uk
+||elpais.com
+||www.lemonde.fr
+||news.com.au
+||businessinsider.com
+||theatlantic.com
+||cbc.ca
