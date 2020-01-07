@@ -163,3 +163,5 @@
 ||theatlantic.com
 ||cbc.ca
 ||hk.on.cc
+||hk01.com
+||scmp.com
