@@ -150,6 +150,7 @@
 ||issuu.com
 ||medium.com
 ||change.org
+||githubusercontent.com
 ||bt4g.com
 ||dongxingdi.com
 ||bbc.com
