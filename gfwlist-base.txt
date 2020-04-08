@@ -125,6 +125,7 @@
 ||telegram.me
 ||tdesktop.com
 ||telegra.ph
+||telesco.pe
 ||graph.org
 ||ask.com
 ||apkpure.com
