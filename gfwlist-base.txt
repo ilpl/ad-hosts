@@ -153,6 +153,7 @@
 ||medium.com
 ||change.org
 ||githubusercontent.com
+||feedly.com
 ||bt4g.com
 ||dongxingdi.com
 ||bbc.com
