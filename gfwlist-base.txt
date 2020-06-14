@@ -107,6 +107,7 @@
 ||soundcloud.com
 ||bloomberg.com
 ||wikipedia.org
+||wikimedia.org
 ||amazon.co.jp
 ||quora.com
 ||www.bing.com
