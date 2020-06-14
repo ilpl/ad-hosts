@@ -111,6 +111,7 @@
 ||quora.com
 ||www.bing.com
 ||search.yahoo.com
+||duckduckgo.com
 ||reddit.com
 ||aptoide.com
 ||pixiv.net
