@@ -156,6 +156,7 @@
 ||change.org
 ||githubusercontent.com
 ||feedly.com
+||discuss.com.hk
 ||bt4g.com
 ||dongxingdi.com
 ||bbc.com
