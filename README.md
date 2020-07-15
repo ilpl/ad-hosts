@@ -12,4 +12,8 @@
 ### 去广告hosts的一点附加 [hosts]
 > https://raw.githubusercontent.com/ilpl/ad-hosts/master/hosts
 
+### 动态去广告hosts for AdGuard Home [filter.txt]
+> https://raw.githubusercontent.com/ilpl/ad-hosts/master/filter.txt
+`新` 解决动态域名无法去广告
+
 仅仅对广告的域名进行屏蔽不会做多余的操作.欢迎反馈!
