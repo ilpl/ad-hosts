@@ -1,0 +1,12 @@
+# This is Adguard Home Regular rules
+# https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists
+
+||wap.xsbiquge.com^
+@@|wap.xsbiquge.com^$important
+||m.biqubao.com^
+@@|m.biqubao.com^$important
+||m.zwdu.com^
+@@|m.zwdu.com^$important
+||qushuba.com^
+@@|wap.qushuba.com^$important
+@@|www.qushuba.com^$important
