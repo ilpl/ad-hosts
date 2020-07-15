@@ -1,5 +1,5 @@
 # This is Adguard Home Regular rules
-# https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists
+# https://raw.githubusercontent.com/ilpl/ad-hosts/master/filter.txt
 
 ||wap.xsbiquge.com^
 @@|wap.xsbiquge.com^$important
