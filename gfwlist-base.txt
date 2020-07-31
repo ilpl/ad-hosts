@@ -157,6 +157,7 @@
 ||githubusercontent.com
 ||feedly.com
 ||discuss.com.hk
+||whoer.net
 ||bt4g.com
 ||dongxingdi.com
 ||bbc.com
