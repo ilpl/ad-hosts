@@ -10,3 +10,5 @@
 ||qushuba.com^
 @@|wap.qushuba.com^$important
 @@|www.qushuba.com^$important
+||m.wenxuemi6.com^
+@@|m.wenxuemi6.com^$important
