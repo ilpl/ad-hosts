@@ -12,3 +12,8 @@
 @@|www.qushuba.com^$important
 ||m.wenxuemi6.com^
 @@|m.wenxuemi6.com^$important
+||m.23txt.com^
+@@|m.23txt.com^$important
+||aikantxt.la^
+@@|m.aikantxt.la^$important
+@@|www.aikantxt.la^$important
