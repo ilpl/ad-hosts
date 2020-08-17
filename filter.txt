@@ -17,3 +17,6 @@
 ||aikantxt.la^
 @@|m.aikantxt.la^$important
 @@|www.aikantxt.la^$important
+||31xiaoshuo.org^
+@@|m.31xiaoshuo.org^$important
+@@|www.31xiaoshuo.org^$important
