@@ -21,3 +21,6 @@
 @@|31xiaoshuo.org^$important
 @@|m.31xiaoshuo.org^$important
 @@|www.31xiaoshuo.org^$important
+||beqege.cc^
+@@|m.beqege.cc^$important
+@@|www.beqege.cc^$important
