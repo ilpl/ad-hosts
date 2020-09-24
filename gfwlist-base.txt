@@ -182,6 +182,13 @@
 ||pixnet.net
 ||coobay.com
 ||kaseisyoji.com
+||asiafriendfinder.com
+||rolia.net
+||van001.com
+||huarenjie.com
+||coolncute.com
+||sina.com.hk
+||eprice.com.hk
 ||mixcloud.com
 ||sendspace.com
 ||4shared.com
@@ -231,3 +238,11 @@
 ||nownews.com
 ||cna.com.tw
 ||hkgolden.com
+||myactimes.com.au
+||gcpnews.com
+||kwongwah.com.my
+||ftchinese.com
+||nextdigital.com.hk
+||hkej.com
+||the-sun.on.cc
+||orientaldaily.on.cc
