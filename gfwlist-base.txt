@@ -250,3 +250,5 @@
 ||hkej.com
 ||the-sun.on.cc
 ||orientaldaily.on.cc
+||std.stheadline.com
+||thestandnews.com
