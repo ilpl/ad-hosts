@@ -190,6 +190,10 @@
 ||sina.com.hk
 ||eprice.com.hk
 ||uukanshu.com
+||knowyourmeme.com
+||archiveofourown.org
+||plurk.com
+||wattpad.com
 ||mixcloud.com
 ||sendspace.com
 ||4shared.com
@@ -260,3 +264,7 @@
 ||appledaily.com
 ||chinapress.com.my
 ||malaysiakini.com
+||aljazeera.com
+||worldcat.org
+||voanews.com
+||straitstimes.com
