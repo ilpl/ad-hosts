@@ -252,3 +252,11 @@
 ||orientaldaily.on.cc
 ||std.stheadline.com
 ||thestandnews.com
+||mbcn.com.ph
+||ltn.com.tw
+||taiwannews.com.tw
+||udnbkk.com
+||taiwannews.jp
+||appledaily.com
+||chinapress.com.my
+||malaysiakini.com
