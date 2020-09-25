@@ -194,6 +194,8 @@
 ||archiveofourown.org
 ||plurk.com
 ||wattpad.com
+||expressvpn.com
+||nordcdn.com
 ||mixcloud.com
 ||sendspace.com
 ||4shared.com
