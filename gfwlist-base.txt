@@ -281,8 +281,9 @@
 ||voanews.com
 ||straitstimes.com
 
+
 !################Whitelist Start################
-@@||adservice.google.com
+@@||mtalk.google.com
 @@||dl.google.com
 @@||kh.google.com
 @@||khm.google.com
@@ -292,17 +293,21 @@
 @@||khm3.google.com
 @@||khmdb.google.com
 @@||tools.google.com
+@@||dl.l.google.com
+@@||maven.google.com
 @@||clientservices.googleapis.com
 @@||fonts.googleapis.com
+@@||imasdk.googleapis.com
 @@||khm.googleapis.com
 @@||khm0.googleapis.com
 @@||khm1.googleapis.com
 @@||khm2.googleapis.com
 @@||khm3.googleapis.com
 @@||khmdb.googleapis.com
+@@||safebrowsing.googleapis.com
 @@||storage.googleapis.com
 @@||translate.googleapis.com
+@@||translation.googleapis.com
 @@||update.googleapis.com
-@@||safebrowsing.googleapis.com
 !################Whitelist End##################
 !---------------------EOF-----------------------
