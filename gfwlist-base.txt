@@ -42,6 +42,7 @@
 ||google.pl
 ||google.ru
 ||google.nl
+||google.co
 ||google.co.jp
 ||google.co.kr
 ||google.co.nz
