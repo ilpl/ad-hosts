@@ -170,6 +170,7 @@
 ||githubusercontent.com
 ||code.jquery.com
 ||feedly.com
+||inoreader.com
 ||discuss.com.hk
 ||whoer.net
 ||line.me
