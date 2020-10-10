@@ -209,6 +209,7 @@
 ||nordcdn.com
 ||archive.is
 ||dcard.tw
+||biggo.com.tw
 ||mixcloud.com
 ||sendspace.com
 ||4shared.com
@@ -283,7 +284,9 @@
 ||worldcat.org
 ||voanews.com
 ||straitstimes.com
-
+||newtalk.tw
+||businesstoday.com.tw
+||storm.mg
 
 !################Whitelist Start################
 @@||mtalk.google.com
