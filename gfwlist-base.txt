@@ -207,6 +207,8 @@
 ||wattpad.com
 ||expressvpn.com
 ||nordcdn.com
+||archive.is
+||dcard.tw
 ||mixcloud.com
 ||sendspace.com
 ||4shared.com
