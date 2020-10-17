@@ -212,6 +212,8 @@
 ||biggo.com.tw
 ||homedepot.com
 ||espn.com
+||dubox.com
+||ymp4.download
 ||mixcloud.com
 ||sendspace.com
 ||4shared.com
