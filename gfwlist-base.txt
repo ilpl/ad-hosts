@@ -215,6 +215,7 @@
 ||dubox.com
 ||ymp4.download
 ||vidol.tv
+||fanqiang.network
 ||mixcloud.com
 ||sendspace.com
 ||4shared.com
