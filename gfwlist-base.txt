@@ -214,6 +214,7 @@
 ||espn.com
 ||dubox.com
 ||ymp4.download
+||vidol.tv
 ||mixcloud.com
 ||sendspace.com
 ||4shared.com
@@ -295,6 +296,7 @@
 ||lihkg.com
 ||livedoor.jp
 ||livedoor.com
+||ctwant.com
 
 !################Whitelist Start################
 @@||mtalk.google.com
