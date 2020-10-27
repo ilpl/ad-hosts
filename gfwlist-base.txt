@@ -216,6 +216,7 @@
 ||ymp4.download
 ||vidol.tv
 ||fanqiang.network
+||duyaoss.com
 ||mixcloud.com
 ||sendspace.com
 ||4shared.com
