@@ -242,6 +242,7 @@
 ||scmp.com
 ||theguardian.com
 ||nytimes.com
+||nyt.com
 ||time.com
 ||cnn.com
 ||wsj.com
