@@ -246,6 +246,7 @@
 ||time.com
 ||cnn.com
 ||wsj.com
+||wsj.net
 ||washingtonpost.com
 ||nbcnews.com
 ||nikkei.com
