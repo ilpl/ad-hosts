@@ -237,7 +237,7 @@
 ||businessinsider.com
 ||theatlantic.com
 ||cbc.ca
-||hk.on.cc
+||on.cc
 ||hk01.com
 ||scmp.com
 ||theguardian.com
@@ -281,8 +281,6 @@
 ||ftchinese.com
 ||nextdigital.com.hk
 ||hkej.com
-||the-sun.on.cc
-||orientaldaily.on.cc
 ||std.stheadline.com
 ||thestandnews.com
 ||mbcn.com.ph
