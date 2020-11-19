@@ -152,8 +152,6 @@
 ||steamcommunity.com
 ||steemit.com
 ||vimeo.com
-||webnovel.com
-||kknews.cc
 ||blog.udn.com
 ||hbo.com
 ||hbogo.com
@@ -168,7 +166,6 @@
 ||github.com
 ||githubassets.com
 ||githubusercontent.com
-||code.jquery.com
 ||feedly.com
 ||inoreader.com
 ||discuss.com.hk
@@ -200,7 +197,6 @@
 ||coolncute.com
 ||sina.com.hk
 ||eprice.com.hk
-||uukanshu.com
 ||knowyourmeme.com
 ||archiveofourown.org
 ||plurk.com
@@ -212,7 +208,6 @@
 ||biggo.com.tw
 ||homedepot.com
 ||espn.com
-||dubox.com
 ||ymp4.download
 ||vidol.tv
 ||fanqiang.network
@@ -222,6 +217,13 @@
 ||startpage.com
 ||telecom-cafe.com
 ||pscp.tv
+||webnovel.com
+||kknews.cc
+||uukanshu.com
+||dubox.com
+||code.jquery.com
+||api.ocr.space
+||b.cdnst.net
 ||mixcloud.com
 ||sendspace.com
 ||4shared.com
