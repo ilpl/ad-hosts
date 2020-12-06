@@ -217,6 +217,7 @@
 ||startpage.com
 ||telecom-cafe.com
 ||pscp.tv
+||cdn.statically.io
 ||webnovel.com
 ||kknews.cc
 ||uukanshu.com
