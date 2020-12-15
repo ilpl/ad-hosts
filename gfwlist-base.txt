@@ -125,6 +125,8 @@
 ||search.yahoo.com
 ||duckduckgo.com
 ||reddit.com
+||redditstatic.com
+||redditmedia.com
 ||aptoide.com
 ||pixiv.net
 ||netflix.com
