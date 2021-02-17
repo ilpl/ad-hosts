@@ -224,6 +224,7 @@
 ||kknews.cc
 ||uukanshu.com
 ||dubox.com
+||docker.com
 ||code.jquery.com
 ||api.ocr.space
 ||b.cdnst.net
