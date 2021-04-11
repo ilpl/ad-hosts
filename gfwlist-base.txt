@@ -310,6 +310,7 @@
 ||livedoor.jp
 ||livedoor.com
 ||ctwant.com
+||upmedia.mg
 
 !################Whitelist Start################
 @@||mtalk.google.com
