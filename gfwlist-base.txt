@@ -221,6 +221,7 @@
 ||pscp.tv
 ||cdn.statically.io
 ||gravatar.com
+||v2ex.com
 ||webnovel.com
 ||kknews.cc
 ||uukanshu.com
