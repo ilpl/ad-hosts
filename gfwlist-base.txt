@@ -220,6 +220,7 @@
 ||telecom-cafe.com
 ||pscp.tv
 ||cdn.statically.io
+||gravatar.com
 ||webnovel.com
 ||kknews.cc
 ||uukanshu.com
@@ -227,7 +228,6 @@
 ||docker.com
 ||code.jquery.com
 ||api.ocr.space
-||b.cdnst.net
 ||mixcloud.com
 ||sendspace.com
 ||4shared.com
