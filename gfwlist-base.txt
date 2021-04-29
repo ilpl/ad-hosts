@@ -313,6 +313,7 @@
 ||livedoor.com
 ||ctwant.com
 ||upmedia.mg
+||news.tvbs.com.tw
 
 !################Whitelist Start################
 @@||mtalk.google.com
