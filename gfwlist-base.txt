@@ -73,6 +73,7 @@
 ||googleusercontent.com
 ||googlewave.com
 ||googlezeitgeist.com
+||translate.goog
 ||maps.gstatic.com
 ||encrypted-tbn0.gstatic.com
 ||encrypted-tbn1.gstatic.com
