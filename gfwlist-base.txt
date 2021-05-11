@@ -230,6 +230,7 @@
 ||docker.com
 ||code.jquery.com
 ||api.ocr.space
+||bgp.he.net
 ||mixcloud.com
 ||sendspace.com
 ||4shared.com
