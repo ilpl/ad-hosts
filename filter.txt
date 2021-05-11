@@ -30,3 +30,7 @@
 ||i4h7md.cn^
 ||t7wl8.cn^
 ||vngmbyij.cn^
+||zwda.com^
+@@|zwda.com^$important
+@@|m.zwda.com^$important
+@@|www.zwda.com^$important
