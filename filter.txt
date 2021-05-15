@@ -34,3 +34,7 @@
 @@|zwda.com^$important
 @@|m.zwda.com^$important
 @@|www.zwda.com^$important
+||166xs.cc^
+@@|166xs.cc^$important
+@@|m.166xs.cc^$important
+@@|www.166xs.cc^$important
