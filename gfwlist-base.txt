@@ -120,6 +120,10 @@
 ||bloomberg.com
 ||wikipedia.org
 ||wikimedia.org
+||wikidata.org
+||mediawiki.org
+||wikivoyage.org
+||wikiversity.org
 ||amazon.co.jp
 ||quora.com
 ||www.bing.com
@@ -223,6 +227,7 @@
 ||cdn.statically.io
 ||gravatar.com
 ||v2ex.com
+||discord.com
 ||webnovel.com
 ||kknews.cc
 ||uukanshu.com
