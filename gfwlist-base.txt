@@ -236,6 +236,7 @@
 ||code.jquery.com
 ||api.ocr.space
 ||bgp.he.net
+||ipinfo.io
 ||mixcloud.com
 ||sendspace.com
 ||4shared.com
