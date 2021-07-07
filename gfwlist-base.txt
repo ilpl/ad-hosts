@@ -228,6 +228,8 @@
 ||gravatar.com
 ||v2ex.com
 ||discord.com
+||discordapp.com
+||discordapp.net
 ||webnovel.com
 ||kknews.cc
 ||uukanshu.com
