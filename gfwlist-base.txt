@@ -232,6 +232,13 @@
 ||kknews.cc
 ||uukanshu.com
 ||dubox.com
+||binance.charity
+||binance.cloud
+||binance.com
+||binance.vision
+||binancezh.com
+||bnbstatic.com
+||yshyqxx.com
 ||docker.com
 ||code.jquery.com
 ||api.ocr.space
