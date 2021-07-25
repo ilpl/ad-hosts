@@ -246,6 +246,7 @@
 ||api.ocr.space
 ||bgp.he.net
 ||ipinfo.io
+||ietf.org
 ||mixcloud.com
 ||sendspace.com
 ||4shared.com
