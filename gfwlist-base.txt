@@ -129,6 +129,7 @@
 ||www.bing.com
 ||search.yahoo.com
 ||duckduckgo.com
+||redd.it
 ||reddit.com
 ||redditstatic.com
 ||redditmedia.com
