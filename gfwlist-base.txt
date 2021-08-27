@@ -232,6 +232,7 @@
 ||discordapp.com
 ||discordapp.net
 ||searx.me
+||tineye.com
 ||webnovel.com
 ||kknews.cc
 ||uukanshu.com
