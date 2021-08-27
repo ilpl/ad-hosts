@@ -233,6 +233,7 @@
 ||discordapp.net
 ||searx.me
 ||tineye.com
+||twitch.tv
 ||webnovel.com
 ||kknews.cc
 ||uukanshu.com
