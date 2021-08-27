@@ -230,6 +230,7 @@
 ||discord.com
 ||discordapp.com
 ||discordapp.net
+||searx.me
 ||webnovel.com
 ||kknews.cc
 ||uukanshu.com
