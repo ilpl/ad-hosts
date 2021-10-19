@@ -234,6 +234,7 @@
 ||searx.me
 ||tineye.com
 ||twitch.tv
+||weebly.com
 ||webnovel.com
 ||kknews.cc
 ||uukanshu.com
