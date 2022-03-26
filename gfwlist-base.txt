@@ -212,6 +212,7 @@
 ||expressvpn.com
 ||nordcdn.com
 ||archive.is
+||archive.vn
 ||dcard.tw
 ||biggo.com.tw
 ||homedepot.com
@@ -235,6 +236,8 @@
 ||tineye.com
 ||twitch.tv
 ||weebly.com
+||torproject.org
+||genius.com
 ||webnovel.com
 ||kknews.cc
 ||uukanshu.com
@@ -246,6 +249,7 @@
 ||binancezh.com
 ||bnbstatic.com
 ||yshyqxx.com
+||coinmarketcap.com
 ||docker.com
 ||code.jquery.com
 ||api.ocr.space
@@ -336,6 +340,7 @@
 ||ctwant.com
 ||upmedia.mg
 ||news.tvbs.com.tw
+||lapeople.com
 
 !################Whitelist Start################
 @@||mtalk.google.com
