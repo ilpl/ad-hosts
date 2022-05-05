@@ -238,6 +238,7 @@
 ||weebly.com
 ||torproject.org
 ||genius.com
+||z-lib.org
 ||webnovel.com
 ||kknews.cc
 ||uukanshu.com
