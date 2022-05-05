@@ -239,6 +239,7 @@
 ||torproject.org
 ||genius.com
 ||z-lib.org
+||1lib.to
 ||webnovel.com
 ||kknews.cc
 ||uukanshu.com
