@@ -127,7 +127,8 @@
 ||amazon.co.jp
 ||quora.com
 ||www.bing.com
-||search.yahoo.com
+||yahoo.com
+||engadget.com
 ||duckduckgo.com
 ||redd.it
 ||reddit.com
@@ -239,6 +240,9 @@
 ||torproject.org
 ||genius.com
 ||z-lib.org
+||hostloc.com
+||bit.ly
+||truthsocial.com
 ||1lib.to
 ||webnovel.com
 ||kknews.cc
