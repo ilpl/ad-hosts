@@ -232,6 +232,7 @@
 ||gravatar.com
 ||v2ex.com
 ||discord.com
+||discord.gg
 ||discordapp.com
 ||discordapp.net
 ||searx.me
