@@ -244,6 +244,7 @@
 ||hostloc.com
 ||bit.ly
 ||truthsocial.com
+||matrix.org
 ||1lib.to
 ||webnovel.com
 ||kknews.cc
