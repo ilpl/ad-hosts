@@ -255,6 +255,9 @@
 ||hostevaluate.com
 ||gfw.report
 ||tiktok.com
+||vercel.app
+||openai.com
+||you.com
 ||webnovel.com
 ||kknews.cc
 ||uukanshu.com
