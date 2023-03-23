@@ -256,8 +256,12 @@
 ||gfw.report
 ||tiktok.com
 ||vercel.app
+||rumble.com
+||v2ray.com
 ||openai.com
 ||you.com
+||perplexity.ai
+||poe.com
 ||webnovel.com
 ||kknews.cc
 ||uukanshu.com
