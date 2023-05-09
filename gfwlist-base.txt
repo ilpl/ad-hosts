@@ -258,6 +258,10 @@
 ||vercel.app
 ||rumble.com
 ||v2ray.com
+||ads.cdn.tvb.com
+||workers.dev
+||apkmirror.com
+||nyaa.si
 ||openai.com
 ||you.com
 ||perplexity.ai
