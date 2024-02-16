@@ -262,6 +262,10 @@
 ||workers.dev
 ||apkmirror.com
 ||nyaa.si
+||hkdtmb.com
+||telghub.com
+||tgcng.com
+||tgstat.com
 ||openai.com
 ||you.com
 ||perplexity.ai
@@ -270,6 +274,7 @@
 ||kknews.cc
 ||uukanshu.com
 ||dubox.com
+||haiwaikan.com
 ||binance.charity
 ||binance.cloud
 ||binance.com
