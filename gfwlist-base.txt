@@ -266,6 +266,7 @@
 ||telghub.com
 ||tgcng.com
 ||tgstat.com
+||typora.io
 ||openai.com
 ||you.com
 ||perplexity.ai
@@ -275,6 +276,7 @@
 ||uukanshu.com
 ||dubox.com
 ||haiwaikan.com
+||drncloud.com
 ||binance.charity
 ||binance.cloud
 ||binance.com
